@@ -14,10 +14,14 @@ i : integer;
 c : currency;
 f : double; (float)
 r : real;
+s : string;
+b : boolean;
 
-i := 1;
+i := 1; (só o "=" seria comparação"
 c := 4.34;
 f := 5.43;
+s := "João";
+b := false;
 
 
 
