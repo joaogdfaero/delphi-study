@@ -10,7 +10,15 @@ TIPOS DE DADOS DO DELPHI:
 Exemplo: não pode simplesmente fazer "x = 1".
 
 Tem que ser:
-<i : integer>
+i : integer;
+c : currency;
+f : double; (float)
+r : real;
+
+i := 1;
+c := 4.34;
+f := 5.43;
+
 
 
 
