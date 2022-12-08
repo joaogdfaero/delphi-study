@@ -4,6 +4,8 @@ PRINCIPAIS ARQUIVOS DELPHI:
 .dfm -> Responsável pelo visual do formulário (clica com o direito e em "View as text" no form que ele aparece)
 .dpr -> Arquivo do projeto (que roda o projeto)
 
+_______________________________________________________________________________________________
+
 TIPOS DE DADOS DO DELPHI:
 
 É fortimento tipado -> precisa dizer pro programa qual é o tipo de dado antes de defini-lo
@@ -23,6 +25,7 @@ f := 5.43;
 s := "João";
 b := false;
 
+_______________________________________________________________________________________________
 
 
 
