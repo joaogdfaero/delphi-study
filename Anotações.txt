@@ -1,0 +1,5 @@
+PRINCIPAIS ARQUIVOS DELPHI:
+
+.pas -> Contém as infos dos formulários
+.dfm -> Responsável pelo visual do formulário (clica com o direito e em "View as text" no form que ele aparece)
+.dpr -> Arquivo do projeto (que roda o projeto)
