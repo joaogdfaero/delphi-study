@@ -27,5 +27,24 @@ b := false;
 
 _______________________________________________________________________________________________
 
+PROCEDURES E FUNCTIONS
+
+PROCEDURE: não retorna um valor apenas executa o que está dentro dele
+FUNCTION: executa e retorna um valor
+
+Exemplo de Procedure:
+
+procedure TForm3.ExibeVariavel;
+begin
+ ShowMessage('Executei a procedure corretamente!')
+end;
+
+Para chamar esse procedure:
+begin
+ ExibeVariavel;
+end;
+
+
+ 
 
 
