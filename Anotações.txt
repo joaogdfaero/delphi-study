@@ -33,6 +33,7 @@ PROCEDURE: não retorna um valor apenas executa o que está dentro dele
 FUNCTION: executa e retorna um valor
 
 Exemplo de Procedure:
+procedure ExibeVariavel(Valor : String);
 
 procedure TForm3.ExibeVariavel;
 begin
