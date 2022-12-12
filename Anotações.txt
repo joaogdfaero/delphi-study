@@ -50,7 +50,7 @@ DEBUG
 
 F8 avança linha a linha
 F9 roda todo o programa
-F7 entra dentro de um procedure/método
+F7 entra dentro de um procedure/function
 
 
  
