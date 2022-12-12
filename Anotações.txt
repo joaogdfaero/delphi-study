@@ -45,6 +45,12 @@ begin
  ExibeVariavel('asdasddsa');
 end;
 
+_______________________________________________________________________________________________
+DEBUG
+
+F8 avança linha a linha
+F9 roda todo o programa
+
 
  
 
