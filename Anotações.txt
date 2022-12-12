@@ -64,6 +64,34 @@ F8 avança linha a linha
 F9 roda todo o programa
 F7 entra dentro de um procedure/function
 
+_______________________________________________________________________________________________
+ESTRUTURA BÁSICA DE UM PROJETO NO DELPHI
+
+unit NomeDasPartes;   { Representa o nome do arquivo .pas que está sendo usado }
+
+interface  { Palavra reservada que define uma seção do código }
+
+uses   { Quais os outras classes que o nosso arquivo está usando (clica com o direito e "Find Declaration"
+para abrir}
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
+
+type  {Cria um tipo (o que é tipo?)}
+  TForm1 = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var { Declaração de variáveis globais que podem ser acessadas de qualquer lugar }
+  Form1: TForm1;
+
+implementation {Para implementar procedures e functions aqui}
+
+{$R *.dfm}
+
+end.
 
  
 
