@@ -18,6 +18,7 @@ f : double; (float)
 r : real;
 s : string;
 b : boolean;
+Date: TDateTime
 
 i := 1; (só o "=" seria comparação"
 c := 4.34;
