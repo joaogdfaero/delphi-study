@@ -47,8 +47,15 @@ end;
 
 PROCEDURE DIZ QUAL É A ENTRADA:
 procedure ExibeVariavel(Valor : String);
+
 FUNCTION DIZ QUAL É A SAÍDA:
 function fncExibeTexto : boolean;
+
+QUANDO CHAMA A FUNÇÃO PRECISA TER NA SAÍDA UM RESULT IGUAL AO TIPO DE ARQUIVO DA FUNÇÃO:
+function TForm1.fncExibeTexto: string;
+begin
+  Result := '';
+end;
 
 _______________________________________________________________________________________________
 DEBUG
