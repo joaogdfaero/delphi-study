@@ -45,6 +45,11 @@ begin
  ExibeVariavel('asdasddsa');
 end;
 
+PROCEDURE DIZ QUAL É A ENTRADA:
+procedure ExibeVariavel(Valor : String);
+FUNCTION DIZ QUAL É A SAÍDA:
+function fncExibeTexto : boolean;
+
 _______________________________________________________________________________________________
 DEBUG
 
