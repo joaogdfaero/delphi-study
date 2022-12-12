@@ -93,6 +93,11 @@ implementation {Para implementar procedures e functions aqui}
 
 end.
 
- 
+_______________________________________________________________________________________________
+CASTING
+StrToInt(Global) # -> String para Int
+IntToStr(Valor) # -> Int para String
+
+
 
 
