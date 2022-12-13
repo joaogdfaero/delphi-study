@@ -118,6 +118,9 @@ begin
   ShowMessage('Seu nome é: ' + Retorno);
 end;
 end.
+_______________________________________________________________________________________________
+Salvando o executável do projeto
 
-
+Na aba superior:
+Project -> Build All Projects
 
