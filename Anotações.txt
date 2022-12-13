@@ -106,6 +106,7 @@ AND
 NOT -> Não
 = -> Igual
 <> -> Diferente
+<= -> Menor ou igual
 
 
 
