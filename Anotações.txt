@@ -138,8 +138,13 @@ ________________________________________________________________________________
 MESSAGE DIALOG COM MENSAGENS, ALERTAS E ETC PRO USUÁRIO
 
 procedure TForm2.Button1Click(Sender: TObject);
+var
+Retorno : Integer;
+
 begin
-MessageDlg('Erro na operação',TMsgDlgType.mtWarning, [mbOK],0);
+// MessageDlg('Erro na operação',TMsgDlgType.mtWarning, [mbOK],0);
+Retorno := MessageDlg('Erro, deseja continuar?',TMsgDlgType.mtConfirmation, [mbYes, mbNo],0);
+ShowMessage(IntToStr(Retorno));
 end;
 
 end.
