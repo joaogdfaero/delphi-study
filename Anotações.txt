@@ -124,3 +124,9 @@ Salvando o executável do projeto
 Na aba superior:
 Project -> Build All Projects
 
+_______________________________________________________________________________________________
+EVENTOS EM OBJETOS
+Clica no objeto e vai na janela esquerda inferior OBJECT INSPECTOR.
+
+Nela vai em EVENTS. Clica duas vezes no campo vazio do Event e então programa ele.
+
