@@ -99,6 +99,8 @@ CASTING
 StrToInt(Global) # -> String para Int
 IntToStr(Valor) # -> Int para String
 
+_______________________________________________________________________________________________
+ESTRUTURAS LÓGICAS
 
 
 
