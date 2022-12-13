@@ -107,7 +107,17 @@ NOT -> Não
 = -> Igual
 <> -> Diferente
 <= -> Menor ou igual
+_______________________________________________________________________________________________
+INPUT DE DADOS
 
+procedure TForm1.Button1Click(Sender: TObject);
+var
+  Retorno : String;
+begin
+  Retorno := InputBox('Entrada de Dados','Informe seu Nome','');
+  ShowMessage('Seu nome é: ' + Retorno);
+end;
+end.
 
 
 
