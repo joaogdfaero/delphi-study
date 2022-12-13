@@ -101,6 +101,8 @@ IntToStr(Valor) # -> Int para String
 
 _______________________________________________________________________________________________
 ESTRUTURAS LÓGICAS
+= -> Igual
+<> -> Diferente
 
 
 
