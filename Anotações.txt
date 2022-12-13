@@ -133,3 +133,13 @@ Nela vai em EVENTS. Clica duas vezes no campo vazio do Event e então programa e
 _______________________________________________________________________________________________
 APARÊNCIA DOS PROJETOS
 Vai em Project -> Option -> Appearance para definir templates top
+
+_______________________________________________________________________________________________
+MESSAGE DIALOG COM MENSAGENS, ALERTAS E ETC PRO USUÁRIO
+
+procedure TForm2.Button1Click(Sender: TObject);
+begin
+MessageDlg('Erro na operação',TMsgDlgType.mtWarning, [mbOK],0);
+end;
+
+end.
