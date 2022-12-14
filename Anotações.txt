@@ -188,5 +188,20 @@ end.
 _______________________________________________________________________________________________
 TRY EXCEPT:
 # IMPORTANTE -> Quando tem mais de duas instruções dentro de um IF, precisa usar o begin - end;
+Exemplo NÃO FUNCIONA:
+procedure TForm2.Button1Click(Sender: TObject);
+begin
+
+if 1=1 then
+ShowMessage('Verdadeiro');
+ShowMessage('Verdadeiro 2')
+else
+ShowMessage('Erro')
+
+end;
+
+end.
+
+Exemplo FUNCIONA:
 
 
