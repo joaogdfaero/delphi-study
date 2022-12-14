@@ -186,7 +186,6 @@ end;
 end.
 
 _______________________________________________________________________________________________
-TRY EXCEPT:
 # IMPORTANTE -> Quando tem mais de duas instruções dentro de um IF, precisa usar o begin - end;
 Exemplo NÃO FUNCIONA:
 procedure TForm2.Button1Click(Sender: TObject);
@@ -213,10 +212,17 @@ ShowMessage('Verdadeiro 2');
 end
 
 else
-ShowMessage('Erro')
+begin
+ShowMessage('Erro');
+ShowMessage('Erro 2');
+end;
 
 end;
+
 end.
+
+_______________________________________________________________________________________________
+TRY EXCEPT:
 
 
 
