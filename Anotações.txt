@@ -185,3 +185,8 @@ end;
 
 end.
 
+_______________________________________________________________________________________________
+TRY EXCEPT:
+# IMPORTANTE -> Quando tem mais de duas instruções dentro de um IF, precisa usar o begin - end;
+
+
