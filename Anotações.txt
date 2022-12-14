@@ -145,6 +145,27 @@ begin
 // MessageDlg('Erro na operação',TMsgDlgType.mtWarning, [mbOK],0);
 Retorno := MessageDlg('Erro, deseja continuar?',TMsgDlgType.mtConfirmation, [mbYes, mbNo],0);
 ShowMessage(IntToStr(Retorno));
+
 end;
 
 end.
+
+_______________________________________________________________________________________________
+IF SIMPLES EM UM BOTÃO:
+
+procedure TForm2.Button1Click(Sender: TObject);
+var
+b : boolean;
+
+begin
+b := true;
+
+if b then
+ShowMessage('Verdadeiro')
+else
+ShowMessage('Falso')
+
+end;
+
+end.
+
