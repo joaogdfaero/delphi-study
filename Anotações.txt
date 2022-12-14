@@ -169,3 +169,19 @@ end;
 
 end.
 
+_______________________________________________________________________________________________
+IF ELSE USANDO CHECKBOX:
+procedure TForm2.Button1Click(Sender: TObject);
+begin
+if CheckBox1.Checked and CheckBox2.Checked then
+ShowMessage('CheckBox 1 e 2 Verdadeiros')
+else if CheckBox1.Checked then
+ShowMessage('CheckBox 1 Verdadeiro')
+else if CheckBox2.Checked then
+ShowMessage('CheckBox 2 Verdadeiro')
+else
+ShowMessage('Falso')
+end;
+
+end.
+
