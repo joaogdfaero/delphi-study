@@ -5,3 +5,5 @@ procedure TfrmMainForm.FormCreate(Sender: TObject);
 begin
   frmMainForm.Caption := 'Main Form Created';
 end;
+
+Para abrir o evento padrão de um objeto, basta clicar duas vezes no objeto (o padrão de um Form é OnCreate, de um botão é OnClick).
