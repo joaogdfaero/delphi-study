@@ -14,4 +14,13 @@ object frmMainForm: TfrmMainForm
   Position = poScreenCenter
   PixelsPerInch = 96
   TextHeight = 13
+  object btnShowAnother: TButton
+    Left = 424
+    Top = 320
+    Width = 139
+    Height = 25
+    Caption = 'Show Another Form'
+    TabOrder = 0
+    OnClick = btnShowAnotherClick
+  end
 end
