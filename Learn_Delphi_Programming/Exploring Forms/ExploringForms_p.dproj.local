@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/02/10 07:16:31.944,=C:\Users\jforno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/10 07:18:35.072,C:\Users\jforno\Documents\Embarcadero\Studio\Projects\ExploringForms_p.exe.dproj=C:\Users\jforno\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/10 07:18:43.435,C:\Users\jforno\Documents\Embarcadero\Studio\Projects\ExploringForms_p.dproj=C:\Users\jforno\Documents\Embarcadero\Studio\Projects\ExploringForms_p.exe.dproj</Transaction>
+    <Transaction>2023/02/10 07:19:06.279,C:\Users\jforno\Documents\Embarcadero\Studio\Projects\frm_MainU.dfm=C:\Users\jforno\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/02/10 07:19:06.279,C:\Users\jforno\Documents\Embarcadero\Studio\Projects\frm_MainU.pas=C:\Users\jforno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/10 07:37:17.239,C:\Users\jforno\Documents\GitHub\Learn Delphi Programming\Exploring Forms\frm_MainU.pas=C:\Users\jforno\Documents\Embarcadero\Studio\Projects\frm_MainU.pas</Transaction>
+    <Transaction>2023/02/10 07:37:17.239,C:\Users\jforno\Documents\GitHub\Learn Delphi Programming\Exploring Forms\frm_MainU.dfm=C:\Users\jforno\Documents\Embarcadero\Studio\Projects\frm_MainU.dfm</Transaction>
+    <Transaction>2023/02/10 07:37:22.868,C:\Users\jforno\Documents\GitHub\Learn Delphi Programming\Exploring Forms\ExploringForms_p.dproj=C:\Users\jforno\Documents\Embarcadero\Studio\Projects\ExploringForms_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
