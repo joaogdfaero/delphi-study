@@ -1,1 +1,3 @@
 O OnCreate event de um Form acontece toda vez que o form aparece na tela. Logo, esse Create inicializa o Form.
+
+Exemplo: ao abrir o Form, já muda o nome inicial dele
