@@ -1,3 +1,7 @@
 O OnCreate event de um Form acontece toda vez que o form aparece na tela. Logo, esse Create inicializa o Form.
 
 Exemplo: ao abrir o Form, já muda o nome inicial dele
+procedure TfrmMainForm.FormCreate(Sender: TObject);
+begin
+  frmMainForm.Caption := 'Main Form Created';
+end;
