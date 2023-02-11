@@ -10,6 +10,8 @@ type
   TfrmMainForm = class(TForm)
     btnShowAnother: TButton;
     procedure btnShowAnotherClick(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
+    procedure FormClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -26,6 +28,16 @@ implementation
 procedure TfrmMainForm.btnShowAnotherClick(Sender: TObject);
 begin
   frmAnother.Show;
+end;
+
+procedure TfrmMainForm.FormClick(Sender: TObject);
+begin
+  Self.Caption := 'Main Form Click'
+end;
+
+procedure TfrmMainForm.FormCreate(Sender: TObject);
+begin
+  Self.Caption := 'Main Form Created';
 end;
 
 end.
