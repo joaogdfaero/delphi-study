@@ -1,4 +1,4 @@
-# delphi-study
+# Delphi Study
 Repositório Dedicado ao Estudo do Delphi
 ---
 Cursos Recomendados:
