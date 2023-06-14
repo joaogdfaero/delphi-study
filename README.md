@@ -6,4 +6,7 @@ Cursos Recomendados:
 - [CLUBE DE PROGRAMADORES DELPHI (por assinatura)](https://academiadocodigo.com.br/campanha/clube-de-programadores/)
 - [Grade de cursos do "Clube do Programadores"](https://novoead.com.br/vitrine/1646830036462x504164153802255200)
 
-- [ ] Construir projetos pessoais
+Projetos Pessoas:
+- Sistema de Gestão para Perfil Modas
+- Caixa automático para Perfil Modas
+- Base de dados de clientes para Perfil Modas
