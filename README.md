@@ -13,4 +13,4 @@ Projetos Pessoas:
 - Base de dados de clientes para Perfil Modas
 
   Ver: 
-[Sistemas de Caixa em Delphi no GitHub](https://github.com/search?q=sistema+de+caixa+language%3Adelphi&type=repositories)
+- [Sistemas de Caixa em Delphi no GitHub](https://github.com/search?q=sistema+de+caixa+language%3Adelphi&type=repositories)
